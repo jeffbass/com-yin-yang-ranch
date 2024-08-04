@@ -1,0 +1,83 @@
+site_name: Yin Yang Ranch
+site_url: https://yin-yang-ranch.com/
+site_description: Yin Yang Ranch Permaculture and Urban Wildlife
+site_author: Jeff Bass
+
+# repo_url: https://github.com/jeffbass/com-yin-yang-ranch
+# edit_uri: blob/master/docs/
+
+theme:
+  name: material
+  logo: images/Yin_yang.svg
+  favicon: images/Yin_yang.svg
+  color_mode: auto
+  user_color_mode_toggle: true
+  locale: en
+  # analytics: {gtag: 'G-274394082'}
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - django
+    - python 
+
+nav:
+  - Home: index.md
+  - About: about/
+  - 'Native Plants': native-plants/
+  - Wildlife: wildlife/
+  - Water: water/
+  - 'Solar Power': solar/
+  - 'Software R & D': software/ 
+
+extra_css:
+  - css/extra.css
+
+exclude_docs: |
+  *.py
+
+markdown_extensions:
+  - toc:
+      permalink: 
+  - attr_list
+  - def_list
+  - tables
+  - pymdownx.highlight:
+      use_pygments: false
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - callouts
+  - mdx_gh_links:
+      user: mkdocs
+      repo: mkdocs
+  - mkdocs-click
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
+copyright: Copyright &copy; 2024 <a href="https://github.com/jeffbass">Jef Bass</a>.
+
+# hooks:
+#   - docs/hooks.py
+
+plugins:
+  - search
+  - redirects:
+      redirect_maps:
+
+  - autorefs
+  - literate-nav:
+      nav_file: README.md
+      implicit_index: true
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            docstring_section_style: list
+            members_order: source
+            show_root_heading: true
+            show_source: false
+            show_signature_annotations: true
+
+# watch:
+#  - mkdocs
