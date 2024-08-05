@@ -1,14 +1,14 @@
 # Yin Yang Ranch website content lives here
 
-This repo contains the text and files to generate the content for the 
-Yin-Yang-Ranch.com website using MkDocs and MkDocs Material. 
+This repo contains the text and related files to generate the content for the 
+Yin-Yang-Ranch website that is built using MkDocs and MkDocs Material. 
 
 This content is still being edited, so it will change from time to time.
 
-The actual Yin-Yang-Ranch.com website is still pointing to an older version. It
-will point to the content of this website when it gets more complete.
+The live Yin-Yang-Ranch.com web address is still pointing to an older version.
+It will point to the content of this website when it gets more complete.
 
-My Yin Yang Ranch computer vision pipleline project is
+My Yin Yang Ranch computer vision pipleline project is described
 [here](https://github.com/jeffbass/yin-yang-ranch).
 
 My PyCon 2020 Talk *Yin Yang Ranch: Building a Distributed Computer Vision Pipeline using Python, OpenCV and ZMQ* video is

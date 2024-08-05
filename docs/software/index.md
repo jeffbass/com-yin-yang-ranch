@@ -1,7 +1,7 @@
 # Software Research and Development
 
-Yin Yang Ranch is evolving. New developments around us are changing the way the 
-local wildlife lives and travels about. We see this happening, but want to  
+Yin Yang Ranch is evolving. New housing developments around us are changing the
+way the local wildlife lives and travels about. As see this happening, we want to  
 observe and document it. 
 
 We are developing a network of cameras, sensors and software to track the local 
