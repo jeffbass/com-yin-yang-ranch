@@ -25,21 +25,6 @@ theme:
 
 plugins:
   - search
-  - social
-
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/jeffbass
-
-nav:
-  - Home: index.md
-  - 'Native Plants': native-plants/
-  - Wildlife: wildlife/
-  - Water: water/
-  - 'Solar Power': solar/
-  - 'Software R & D': software/ 
-  - 'Learn More': learn-more/
 
 markdown_extensions:
   - pymdownx.highlight:
