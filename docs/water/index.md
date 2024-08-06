@@ -1,4 +1,4 @@
-# Water is Precious
+# Water is Precious -- and Drought is common
 
 Yin Yang Ranch is in a valley in Ventura County in Southern California. The city
 we are in gets 100% of its tap water from the MWD of Southern California. Most
@@ -16,10 +16,12 @@ the chemistry of the water. The rainwater in the Feather River area is slighly
 acidic and has few mineral salts. But by the time the water reaches Ventura
 County, it is quite alkaline and contains a variety of calcium and other salts. 
 
-Of course, it does rain in Southern California. Our typical rainfall in our
+Of course, it does rain in Southern California (contrary to that well known
+rock song). Our typical rainfall in our
 valley is about 15 inches a year. But there is a lot of variation year to year.
 Droughts have become more common in the last 30 years. We had a year of only 4 
-inches of rain in 2022. But in 2023, we had 22 inches...(adjust and reference)
+inches of rain in 2020. But in 2023, we had 22 inches. In 2004 we had 30 inches.
+We'll be posting some charts here soon.
 
 We do capture rainwater from our roof into barrels and use it mainly to make
 compost, since compost bacteria are killed by the chlorine in tap water. We use

@@ -23,3 +23,8 @@ the driveways. We have also planted many other local natives:
 - Laurel Sumac
 - California Poppies 
 - White Yarrow
+- Native Milkweeds (for the Monarch Butterflies)
+- Mexican Elderberry 
+
+We always trying new plants to see what the critters are willing to share with us.
+We will update this page with some of what we learn.
