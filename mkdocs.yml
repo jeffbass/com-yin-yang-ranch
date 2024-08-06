@@ -8,9 +8,9 @@ site_author: Jeff Bass
 
 theme:
   name: material
-  pallette:
-    primary: black
-    accent: white 
+  palette:
+    primary: white
+    accent: green 
   locale: en
   logo: images/Yin_and_Yang_250px.svg
   favicon: images/Yin_yang.svg
