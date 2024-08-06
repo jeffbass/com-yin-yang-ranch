@@ -25,12 +25,12 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about/
   - 'Native Plants': native-plants/
   - Wildlife: wildlife/
   - Water: water/
   - 'Solar Power': solar/
   - 'Software R & D': software/ 
+  - 'Learn More': learn-more/
 
 extra_css:
   - css/extra.css
