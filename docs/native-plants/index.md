@@ -25,6 +25,13 @@ the driveways. We have also planted many other local natives:
 - White Yarrow
 - Native Milkweeds (for the Monarch Butterflies)
 - Mexican Elderberry 
+- Toyon Berry 
 
 We always trying new plants to see what the critters are willing to share with us.
 We will update this page with some of what we learn.
+
+## Some Videos and Photos of Yin Yang Ranch
+
+[Photos at Yin Yang Ranch](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters)
+
+[Yin Yang Ranch YouTube Channel](https://youtube.com/@yinyangranch-h1p?si=PQykr61daCJ45kae)

@@ -34,4 +34,9 @@ individual animals (for ecample, coyote 2024-C3, seen 3 times in the last 3 days
 More about the hardware and software we are developing is [here](https://github.com/jeffbass/yin-yang-ranch).
 
 
+## Some Videos and Photos of Yin Yang Ranch
+
+[Photos at Yin Yang Ranch](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters)
+
+[Yin Yang Ranch YouTube Channel](https://youtube.com/@yinyangranch-h1p?si=PQykr61daCJ45kae)
 

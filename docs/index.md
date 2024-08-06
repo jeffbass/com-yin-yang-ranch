@@ -36,6 +36,8 @@ We are developing open source software and hardware. How many gallons did it tak
 us learn what works and keep track of our wildlife, plants and weather.
 
 
+## Some Videos and Photos of Yin Yang Ranch
 
+[Photos at Yin Yang Ranch](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters)
 
-
+[Yin Yang Ranch YouTube Channel](https://youtube.com/@yinyangranch-h1p?si=PQykr61daCJ45kae)
