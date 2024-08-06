@@ -1,27 +1,36 @@
 site_name: Yin Yang Ranch
-site_url: https://yin-yang-ranch.com/
+site_url: https://jeffbass.github.io/com-yin-yang-ranch
 site_description: Yin Yang Ranch Permaculture and Urban Wildlife
 site_author: Jeff Bass
 
-# repo_url: https://github.com/jeffbass/com-yin-yang-ranch
-# edit_uri: blob/master/docs/
-
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  locale: en
+  language: en
   palette:
     primary: white
     accent: green 
-  locale: en
   logo: images/Yin_and_Yang_250px.svg
   favicon: images/Yin_yang.svg
-  # user_color_mode_toggle: true
-  # color_mode: auto
-  # analytics: {gtag: 'G-274394082'}
-  # highlightjs: true
-  # hljs_languages:
-    # - yaml
-    # - django
-    # - python 
+
+plugins:
+  - search
+  - social
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/jeffbass
 
 nav:
   - Home: index.md
@@ -32,55 +41,21 @@ nav:
   - 'Software R & D': software/ 
   - 'Learn More': learn-more/
 
-# extra_css:
-  # - css/extra.css
-
-exclude_docs: |
-  *.py
-
 markdown_extensions:
-  - toc:
-      permalink: 
-  - attr_list
-  - def_list
-  - tables
   - pymdownx.highlight:
-      use_pygments: false
+      anchor_linenums: true
+  - pymdownx.inlinehilite
   - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
   - pymdownx.superfences
-  - callouts
-  - mdx_gh_links:
-      user: jeffbass
-      repo: com-yin-yang-ranch
-  - mkdocs-click
+  - pymdownx.mark
+  - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-
-copyright: Copyright &copy; 2024 <a href="https://github.com/jeffbass">Jef Bass</a>.
-
-# hooks:
-#   - docs/hooks.py
-
-plugins:
-  - search
-  - redirects:
-      redirect_maps:
-
-  - autorefs
-  - literate-nav:
-      nav_file: README.md
-      implicit_index: true
-  - mkdocstrings:
-      handlers:
-        python:
-          options:
-            docstring_section_style: list
-            members_order: source
-            show_root_heading: true
-            show_source: false
-            show_signature_annotations: true
-
-# watch:
-#  - mkdocs
+copyright: Copyright &copy; 2024 <a href="https://github.com/jeffbass">Jeff Bass</a>.
