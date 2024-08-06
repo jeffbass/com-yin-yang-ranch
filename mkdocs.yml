@@ -50,8 +50,8 @@ markdown_extensions:
   - pymdownx.superfences
   - callouts
   - mdx_gh_links:
-      user: mkdocs
-      repo: mkdocs
+      user: jeffbass
+      repo: com-yin-yang-ranch
   - mkdocs-click
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
