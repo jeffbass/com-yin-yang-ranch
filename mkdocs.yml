@@ -10,6 +10,8 @@ theme:
     - navigation.sections
     - toc.integrate
     - navigation.top
+    - navigation.expand
+    - navigation.path 
     - search.suggest
     - search.highlight
     - content.tabs.link
