@@ -1,12 +1,8 @@
 # Yin Yang Ranch website content lives here
 
 This repo contains the text and related files to generate the content for the 
-Yin-Yang-Ranch website that is built using MkDocs and MkDocs Material. 
-
-This content is still being edited, so it will change from time to time.
-
-The live Yin-Yang-Ranch.com web address is still pointing to an older version.
-It will point to the content of this website when it gets more complete.
+**Yin-Yang-Ranch.com** website. It is built using MkDocs and MkDocs Material. 
+The site is hosted using GitHub Pages pointing to our custom domain.
 
 My Yin Yang Ranch computer vision pipleline project is described
 [here](https://github.com/jeffbass/yin-yang-ranch).

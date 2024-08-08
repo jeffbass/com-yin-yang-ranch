@@ -4,7 +4,7 @@
 
 Yin Yang Ranch is a suburban 2 acre lot that we are gradually transforming into an urban permaculture farm. We are in Southern California about 10 miles from the Malibu coast. It is a dry Mediterranean climate with no freezing days. Drought and limited rainfall are the toughest climate issues.
 
-## Permaculture is Converting the Lawn Living Soil and Native Plants
+## Converting the Lawn into Living Soil and Native Plants
 
 We have replaced our suburban lawn with Hugelkultur raised beds built with logs
 and living soil. We are making living soil by composting garden trimmings, food
@@ -30,14 +30,12 @@ Plants combine sunlight, water and carbon dioxide to make sugars. They send many
 
 Getting rid of the lawn. Covering the roof in solar panels. Setting up rain barrels around the house and barn. Making compost bins and filling them with coffee grounds and food scraps from local coffee shops and restaurants. Using compost to build hugelkultur raised beds. Planting a diverse food forest of trees, flowers and vegetables.
 
-## Automating and Tracking What Works
+## Tracking Wildlife and Water with Software
 
 We are developing open source software and hardware. How many gallons did it take to water the fig trees today? (we have a Raspberry Pi server watching the water meter with a camera). When did the coyotes last run behind the barn? (we have a camera there). What is the temperature and soil moisture under the avocado trees? What is the temperature and moisture content of the 3 compost piles? How much solar electricity did we generate today? How full are the rain barrels? Sensors, small computers and software can help
 us learn what works and keep track of our wildlife, plants and weather.
 
+## Videos and Photos of Yin Yang Ranch
 
-## Some Videos and Photos of Yin Yang Ranch
-
-[Photos at Yin Yang Ranch](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters)
-
-[Yin Yang Ranch YouTube Channel](https://youtube.com/@yinyangranch-h1p?si=PQykr61daCJ45kae)
+- [Photos of Yin Yang Ranch](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters)
+- [Yin Yang Ranch YouTube Channel](https://youtube.com/@yinyangranch-h1p?si=PQykr61daCJ45kae)
