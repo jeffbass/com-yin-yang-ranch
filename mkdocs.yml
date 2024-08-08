@@ -22,8 +22,8 @@ theme:
   palette:
     primary: white
     accent: green 
-  logo: images/Yin_and_Yang_250px.svg
-  favicon: images/Yin_yang.svg
+  logo: images/Yin_and_Yang_250px.png
+  favicon: images/Yin_yang.png
 
 plugins:
   - search
