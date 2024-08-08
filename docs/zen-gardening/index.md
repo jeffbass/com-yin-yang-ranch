@@ -38,7 +38,7 @@ cameras, housings and the electronics we have built to support them.
 - McGrath Family Farms -- a local organic teaching farm that also sells their 
   locally grown organic produce. [Weblink](https://www.storeatmcgrath.com/about). 
 - Plant Good Seed company: a local organic seed company creating locally developed seed
-  varieties. [Website](http://www.plantgoodseed.com/)
+  varieties. [Website](https://www.plantgoodseed.com/)
 
 ## Further Resources in books and on the Web
 
