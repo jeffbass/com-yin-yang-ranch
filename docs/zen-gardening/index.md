@@ -1,4 +1,4 @@
-# Leaning More -- A list of Resources
+# Zen Gardening & Permaculture
 
 Yin Yang Ranch is one of many permaculture and native plant sites in Ventura
 County, California. We are lucky to have an abundance of local resources for 
@@ -8,22 +8,23 @@ organic farming techniques.
 For a brief permaculture overview, the Wikipedia article on Permaculture is a
 good place to start: [Permaculture on Wikipedia](https://en.wikipedia.org/wiki/Permaculture)
 
+## Yin Yang Ranch Info
 
-## Learning more about Yin Yang Ranch Software R & D
+### Yin Yang Ranch Software
 
-All the software we are developing is open source and described in this project 
-on Gihub: [Yin Yang Ranch project overview](https://github.com/jeffbass/yin-yang-ranch)
+A brief overview is [here.](../yyr-Software/index.md) All the software we are developing is open source and described in this project on Gihub:
+[Yin Yang Ranch project overview.](https://github.com/jeffbass/yin-yang-ranch)
 
 There are also some pages there that describe our use of Raspberry Pi computers,
-cameras and the housings and electronics we have built to support them.
+cameras, housings and the electronics we have built to support them.
 
-## Here are some photos of our critters and native plants
+### Photos of Yin Yang Ranch
 
-(Need to add a link here)
+[Photo Gallery of Plants & Critters](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters)
 
-## Some our Coyote and Critter Videos have a YouTube Channel
+### Coyote and Critter Videos
 
-You can find the YouTube channel [here.](https://youtube.com/@yinyangranch-h1p?si=e-VBOir_jqmnMndN)
+[Yin Yang Ranch YouTube channel](https://youtube.com/@yinyangranch-h1p?si=e-VBOir_jqmnMndN)
 
 ## Farms and nurseries in Ventura County California
 
