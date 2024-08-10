@@ -6,6 +6,8 @@ creek) that runs under a 4 lane road along 2 sides of our lot. A variety of
 wildlife uses the creek as a way to move from the hills above us to the various 
 creeks and drainage basis below us. 
 
+![Our Creek for Critters](../images/creek-flowing.jpg)
+
 ## Lots of Critters live here and roam through
 
 In our 25 years here, we have seen an abundance of wildlife. As new neighborhoods 
@@ -18,10 +20,14 @@ We regularly see coyotes, bobcats, raccoons and possums pass through. A coyote
 pack with 3 adults and 5 pups is living here this year and we see them almost
 every day. 
 
+![Coyote at Raised Bed](../images/coyote-back-day.jpg)
+
 We have a wide variety of birds, including red tail hawks, ravens, crows, quail
 and hummingbirds. We have honeybees as well as many species of native bees that
 nest in the ground or in holes in trees. We are a waystation for Monarch Butterflies 
 and plant native milkweed to feed their caterpillars.
+
+![Barn Owl](../images/barn-owl-day.jpeg)
 
 ## Observing Critters with Cameras and Software
 
@@ -31,11 +37,13 @@ Cameras with ingegrated infrared lights) and homebuilt cameras (Raspberry Pi
 computers with various cameras attached). We are developing software to watch
 the cameras and identify species (coyote or bobcat?) as well as specific
 individual animals (for ecample, coyote 2024-C3, seen 3 times in the last 3 days). 
-More about the hardware and software we are developing is [here](https://github.com/jeffbass/yin-yang-ranch).
+More about the hardware and software we are developing is on our [GitHub project
+page for Yin Yang Ranch](https://github.com/jeffbass/yin-yang-ranch).
 
+![Driveway Camera Housing](../images/camera-in-place-driveway.jpg)
 
 ## Some Videos and Photos of Yin Yang Ranch
 
-- [Photos at Yin Yang Ranch](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters)
-- [Yin Yang Ranch YouTube Channel](https://youtube.com/@yinyangranch-h1p?si=PQykr61daCJ45kae)
+- [Photos at Yin Yang Ranch](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters) (link goes to Yin Yang Ranch gallery on 500px.com)
+- [Yin Yang Ranch YouTube Channel](https://youtube.com/@yinyangranch-h1p?si=PQykr61daCJ45kae) (link goes to YouTube) 
 

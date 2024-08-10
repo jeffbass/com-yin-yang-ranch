@@ -4,6 +4,8 @@ ago. We tore up the lawn and replaced it with Hugels and raised garden beds. We
 started out trying to grow a typical vegetable garden with tomatoes and squash
 and ...
 
+![Figs Poppies Raised Bed](../images/figs-poppies-hugel.jpg)
+
 ## Letting Wildlife Win
 The crittters got almost all of our vegetables. And we realized that growing
 vegetables with chlorinated tap water was not as effective as buying vegetables
@@ -31,6 +33,8 @@ the driveways. We have also planted many other local natives:
 - California Sycamore
 - Coast Live Oak
 
+![Hummingbird Sage](../images/hummingbird-sage-2.jpg)
+
 ## Food Crops the Critters Share
 Sometimes we plant things just to see how long they'll last. It's fun watching a
 Monarch Caterpillar stip all of the leaves off a large native milkweed plant in
@@ -44,8 +48,10 @@ to share with us. We will update this page with some of what we learn.
 - Asian Pears
 - Asparagus
 
+![Asian Pears](../images/asian-pears.jpg)
+
 ## Videos and Photos
 We have some photos and videos that tell a bit of the story of Yin Yang Ranch:
 
-- [Photos taken at Yin Yang Ranch](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters)
-- [Yin Yang Ranch YouTube Channel](https://youtube.com/@yinyangranch-h1p?si=PQykr61daCJ45kae)
+- [Photos taken at Yin Yang Ranch](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters) (link goes to Yin Yang Ranch gallery on 500px.com)
+- [Yin Yang Ranch YouTube Channel](https://youtube.com/@yinyangranch-h1p?si=PQykr61daCJ45kae) (link goes to YouTube) 
