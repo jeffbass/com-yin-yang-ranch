@@ -1,9 +1,9 @@
 # Zen Gardening & Permaculture
 
-Yin Yang Ranch is one of many permaculture and native plant sites in Ventura
-County, California. We are lucky to have an abundance of local resources for 
-learning more about improving our soil, wildlife habitat, biodiversity and 
-organic farming techniques.
+"Permaculture is a Revolution Disguised as Organic Gardening". Those of involved with
+Permaculture are trying to leave the land, its plants and its animals in better health
+than when we arrived. Some call it Permaculture. Some call it Biodynamic Farming. Or
+just Organic Gardening. It is caring for the land and water with a longer term perspective. 
 
 For a brief permaculture overview, the Wikipedia article on Permaculture is a
 good place to start: [Permaculture on Wikipedia](https://en.wikipedia.org/wiki/Permaculture)
@@ -15,18 +15,25 @@ good place to start: [Permaculture on Wikipedia](https://en.wikipedia.org/wiki/P
 A brief overview is [here.](../yyr-Software/index.md) All the software we are developing is open source and described in this project on Gihub:
 [Yin Yang Ranch project overview.](https://github.com/jeffbass/yin-yang-ranch)
 
+![Design Drawing](../images/CVpipeline.png)
+
 There are also some pages there that describe our use of Raspberry Pi computers,
 cameras, housings and the electronics we have built to support them.
 
 ### Photos of Yin Yang Ranch
 
-[Photo Gallery of Plants & Critters](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters)
+[Photo Gallery of Plants & Critters](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters) (link goes to Yin Yang Ranch gallery on 500px.com)
 
-### Coyote and Critter Videos
+### Our Coyote and Critter Videos
 
-[Yin Yang Ranch YouTube channel](https://youtube.com/@yinyangranch-h1p?si=e-VBOir_jqmnMndN)
+[Yin Yang Ranch YouTube channel](https://youtube.com/@yinyangranch-h1p?si=e-VBOir_jqmnMndN) (link goes to YouTube)
 
 ## Farms and nurseries in Ventura County California
+
+Yin Yang Ranch is one of many permaculture and native plant sites in Ventura
+County, California. We are lucky to have an abundance of local resources for 
+learning more about improving our soil, wildlife habitat, biodiversity and 
+organic farming techniques. Here are a few:
 
 - Apricot Lane Farms -- Their "The Biggest Little Farm" movie is one of the most
   beautiful introductions to biodynamic farming anywhere. [Weblink](https://www.apricotlanefarms.com).
@@ -61,4 +68,4 @@ at this [weblink](https://www.foodnotlawns.com/book.html)
 
 Help us add to this list! If you have a favorite website, book, permaculture 
 farm or other resource you think we should add to this list, let us know by
-opening a discussion here (need a link to a Gihub Discussions in this repo)
+opening a discussion [here.](https://github.com/jeffbass/com-yin-yang-ranch/discussions)
