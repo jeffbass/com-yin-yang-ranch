@@ -4,7 +4,7 @@ Yin Yang Ranch is a suburban 2 acre lot that is a mile from a 6 lane freeway and
 of walls and fences. There is a creek (or ditch? or Barranca? Let's call it a 
 creek) that runs under a 4 lane road and along 2 sides of our lot. A variety of
 wildlife uses the creek as a way to move from the hills above us to the various 
-creeks and drainage basis below us. 
+creeks and drainage basins below us. 
 
 ![Our Creek for Critters](../images/creek-flowing.jpg)
 

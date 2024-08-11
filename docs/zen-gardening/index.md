@@ -1,5 +1,7 @@
 # Zen Gardening & Permaculture
 
+## Permaculture is...
+
 "Permaculture is a Revolution Disguised as Organic Gardening". Those of involved with
 Permaculture are trying to leave the land, its plants and its animals in better health
 than when we arrived. Some call it Permaculture. Some call it Biodynamic Farming. Or
@@ -7,26 +9,6 @@ just Organic Gardening. It is caring for the land and water with a longer term p
 
 For a brief permaculture overview, the Wikipedia article on Permaculture is a
 good place to start: [Permaculture on Wikipedia](https://en.wikipedia.org/wiki/Permaculture)
-
-## Yin Yang Ranch Info
-
-### Yin Yang Ranch Software
-
-A brief overview is [here.](../yyr-Software/index.md) All the software we are developing is open source and described in this project on Gihub:
-[Yin Yang Ranch project overview.](https://github.com/jeffbass/yin-yang-ranch)
-
-![Design Drawing](../images/CVpipeline.png)
-
-There are also some pages there that describe our use of Raspberry Pi computers,
-cameras, housings and the electronics we have built to support them.
-
-### Photos of Yin Yang Ranch
-
-[Photo Gallery of Plants & Critters](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters) (link goes to Yin Yang Ranch gallery on 500px.com)
-
-### Our Coyote and Critter Videos
-
-[Yin Yang Ranch YouTube channel](https://youtube.com/@yinyangranch-h1p?si=e-VBOir_jqmnMndN) (link goes to YouTube)
 
 ## Farms and nurseries in Ventura County California
 
@@ -47,7 +29,7 @@ organic farming techniques. Here are a few:
 - Plant Good Seed company: a local organic seed company creating locally developed seed
   varieties. [Website](https://www.plantgoodseed.com/)
 
-## Further Resources in books and on the Web
+## Further Permaculture Resources
 
 For many of us, Toby Hemenway’s book Gaia’s Garden (Gaia's Garden: A Guide to Home-Scale Permaculture, 2nd Edition, 2009) is the best all-around reference. Here is a fun quote:
 
@@ -69,3 +51,23 @@ at this [weblink](https://www.foodnotlawns.com/book.html)
 Help us add to this list! If you have a favorite website, book, permaculture 
 farm or other resource you think we should add to this list, let us know by
 opening a discussion [here.](https://github.com/jeffbass/com-yin-yang-ranch/discussions)
+
+## Yin Yang Ranch Info
+
+### Yin Yang Ranch Software
+
+A brief overview is [here.](../yyr-Software/index.md) All the software we are developing is open source and described in this project on Gihub:
+[Yin Yang Ranch project overview.](https://github.com/jeffbass/yin-yang-ranch)
+
+![Design Drawing](../images/CVpipeline.png)
+
+There are also some pages there that describe our use of Raspberry Pi computers,
+cameras, housings and the electronics we have built to support them.
+
+### Photos of Yin Yang Ranch
+
+[Photo Gallery of Plants & Critters](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters) (link goes to Yin Yang Ranch gallery on 500px.com)
+
+### Our Coyote and Critter Videos
+
+[Yin Yang Ranch YouTube channel](https://youtube.com/@yinyangranch-h1p?si=e-VBOir_jqmnMndN) (link goes to YouTube)
