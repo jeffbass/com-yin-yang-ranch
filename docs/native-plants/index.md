@@ -7,7 +7,7 @@ and ...
 ![Figs Poppies Raised Bed](../images/figs-poppies-hugel.jpg)
 
 ## Letting Wildlife Win
-The crittters got almost all of our vegetables. And we realized that growing
+The critters got almost all of our vegetables. And we realized that growing
 vegetables with chlorinated tap water was not as effective as buying vegetables
 from our local organic farmers who are using well water. So we decided to plant
 various native plants that make the best use of our limited rainwater and
@@ -37,7 +37,7 @@ the driveways. We have also planted many other local natives:
 
 ## Food Crops the Critters Share
 Sometimes we plant things just to see how long they'll last. It's fun watching a
-Monarch Caterpillar stip all of the leaves off a large native milkweed plant in
+Monarch Caterpillar strip all of the leaves off a large native milkweed plant in
 a single day. We always trying new plants to see what the critters are willing
 to share with us. We will update this page with some of what we learn.
 

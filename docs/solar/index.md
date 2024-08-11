@@ -13,7 +13,7 @@ We have had electric cars for 15 years and, even after charging the cars for all
 our driving, we produce more electricity than we use. We "sell" this power back
 to the our local power company Southern California Edison. Under our solar 
 net metering contract, we get paid for our net generation. Unfortunately, our
-current contract expires in a couple of years and we will no longer be paid for 
+current contract expires in a couple of years and then we will no longer be paid for 
 our excess generated power. 
 
 ![Solar Inverters](../images/solar-inverters.jpeg)
@@ -26,8 +26,8 @@ optimize watering times and amounts.
 
 ![Solar Generation Graph](../images/solar-net-negative-graph.png)
 
-The above graph shows our power company bill's Daily Average Electricty usage (kWh).
+The above graph is from our power company bill. It shows our Daily Average Electricity usage (kWh).
 All the numbers are negative because we produce more electricity than we use. 
-Every month of the year. In July, 2024 we produced an average of 69kWh per day.
+Every month of the year. In July, 2024 we produced an average excess of 69 kWh per day.
 Or 2,139 more kWh than we used. That's enough to power 2 homes in our area. 
 Over and above what we use ourselves.

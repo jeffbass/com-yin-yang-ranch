@@ -2,7 +2,7 @@
 
 Yin Yang Ranch is a suburban 2 acre lot that is a mile from a 6 lane freeway and surrounded by typical suburban neighborhoods with several lots per acre and lots 
 of walls and fences. There is a creek (or ditch? or Barranca? Let's call it a 
-creek) that runs under a 4 lane road along 2 sides of our lot. A variety of
+creek) that runs under a 4 lane road and along 2 sides of our lot. A variety of
 wildlife uses the creek as a way to move from the hills above us to the various 
 creeks and drainage basis below us. 
 
@@ -33,12 +33,12 @@ and plant native milkweed to feed their caterpillars.
 
 We have many cameras around the farm to watch the wildlife and learn about what 
 lives here and passes through. We use a mix of commercial cameras (Google Nest 
-Cameras with ingegrated infrared lights) and homebuilt cameras (Raspberry Pi
+Cameras with integrated infrared lights) and homebuilt cameras (Raspberry Pi
 computers with various cameras attached). We are developing software to watch
 the cameras and identify species (coyote or bobcat?) as well as specific
-individual animals (for ecample, coyote 2024-C3, seen 3 times in the last 3 days). 
-More about the hardware and software we are developing is on our [GitHub project
-page for Yin Yang Ranch](https://github.com/jeffbass/yin-yang-ranch).
+individual animals (for example, coyote 2024-C3, seen 3 times in the last 3 days). 
+More information about the hardware and software we are developing is on our 
+[GitHub project page for Yin Yang Ranch](https://github.com/jeffbass/yin-yang-ranch).
 
 ![Driveway Camera Housing](../images/camera-in-place-driveway.jpg)
 
