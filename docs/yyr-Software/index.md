@@ -7,12 +7,14 @@ to observe and document it.
 We are developing a network of cameras, sensors and software to track the local 
 environment and its wildlife. Some of the cameras are commercial ones like
 Google Nest cameras that have infrared capability. Some of the cameras are 
-self-built projects we put together using small computers and camera sensors.
+self-built projects we put together using small **Raspberry Pi** computers and
+camera sensors.
 
 ## PyCon 2020 Talk
 
-Jeff Bass, owner of Yin Yang Ranch, gave a talk about his open source software
-and its use in and around Yin Yang Ranch project at the U.S. Python Conference
+All our Yin Yang Ranch software is written in a computer language called
+**Python**. Jeff Bass, lead software geek of Yin Yang Ranch, gave a talk about his open source software
+and its use in and around Yin Yang Ranch at the U.S. Python Software Conference
 PyCon 2020:
 
 **Jeff Bass - Yin Yang Ranch: Building a Distributed Computer
@@ -21,20 +23,59 @@ Vision Pipeline using Python, OpenCV and ZMQ**
 - [PyCon 2020 Video Talk about the project](https://youtu.be/76GGZGneJZ4?t=2)
 - [The PyCon 2020 Talk Presentation slides](https://speakerdeck.com/jeffbass/yin-yang-ranch-building-a-distributed-computer-vision-pipeline-using-python-opencv-and-zmq-17024000-4389-4bae-9e4d-16302d20a5b6)
 
-All the software we are developing is open source and described in this project 
-on Gihub: [Yin Yang Ranch project overview](https://github.com/jeffbass/yin-yang-ranch)
+## Yin Yang Ranch Software
 
-There are also some pages there that describe our use of Raspberry Pi computers,
-cameras and the housings and electronics we have built to support them.
+All the software and electronics we are developing is open source and described in this project 
+on GitHub: [Yin Yang Ranch project overview](https://github.com/jeffbass/yin-yang-ranch).
+There are links in that project repository to the source code of all our software
+packages, including `imageZMQ`, `imagenode` and `imagehub`. There is a working 
+prototype of the `librarian` package in the [overview repository.](https://github.com/jeffbass/yin-yang-ranch) 
+
+The design of the software system is what is called a Distributed Computer Vision
+Pipline. The pipline starts with 8-12 Rasperry Pi computer servers with attached 
+cameras at various places around the farm: watching the driveway, on the back of 
+the barn aimed at the creek, aimed at the grape arbor, watching the water meter
+etc. These Rasperry Pi `imagenodes` capture images and select which images
+meet "send them" criteria, which varies by the location and job of the specific 
+Raspberry Pi comtputer. These images are transmitted via our `imageZMQ` program
+to the `imagehub` server in the house. Finally, a `librarian` program sorts
+through the images and labels them and answers questions about them. Here is 
+a text message dialog with the `librarian` software bot (named "Susan"): 
+
+![Text Exchange](../images/text-messages.png)
+
+This is a design diagram of the overall Computer Vision Distributed Pipeline:
+
+![Computer Vision Pipeline](../images/CVpipeline.png)
+
+## Raspberry Pi Computers
+
+For those unfamiliar with them, Raspberry Pi computers are about the size of a 
+credit card and use less power than a flashlight. Each one runs a full server version 
+of Linux, the same operating system that runs most of the servers on the internet. 
+
+We use Raspberry Pi computers to operate cameras and sensors in multiple 
+locations around Yin Yang Ranch. They are small enough that they can fit into
+light fixtures, security camera housings or a pint-sized glass mason jar.
+
+Here is a Raspberry Pi computer and its Raspberry Pi Camera Module:
+
+![Raspberry Pi and Camera Module](../images/rpi-w-rpi-cam.jpeg)
+
+Here is a glass Mason jar holding a Raspberry Pi computer and Camera Module.
+It is positioned on our water meter cover watching the dial of the 
+water meter. We can ask Susan, the Librarian Bot, if the water is running 
+and get an answer in real time (see the text messages photo above):
+
+![Raspberry Pi in a Jar](../images/rpi-in-jar.jpeg)
 
 ## Cameras and Sensors
 
-We use cameras to track our urban wildlife. We use a mix of cameras. Some are
+We use cameras to track our urban wildlife. We use a variety cameras. Some are
 commercial cameras like Google Nest Cameras. Others are camera sensors we 
 connect to small Raspberry Pi computers. We use a variety of enclosures for
 our handbuilt cameras including some $5 Fake Security Cameras; we take them
 apart and put a Raspberry Pi computer with a PiCamera module into it.
-
 
 ### Driveway Camera
 

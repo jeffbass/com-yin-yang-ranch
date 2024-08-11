@@ -1,4 +1,4 @@
-# Zen Gardening & Permaculture
+# Permaculture Farming and Gardening
 
 ## Permaculture is...
 
@@ -9,6 +9,8 @@ just Organic Gardening. It is caring for the land and water with a longer term p
 
 For a brief permaculture overview, the Wikipedia article on Permaculture is a
 good place to start: [Permaculture on Wikipedia](https://en.wikipedia.org/wiki/Permaculture)
+
+![Newly planted Raised Bed](../images/raised-bed-newly-planted.jpg)
 
 ## Farms and nurseries in Ventura County California
 
@@ -56,10 +58,8 @@ opening a discussion [here.](https://github.com/jeffbass/com-yin-yang-ranch/disc
 
 ### Yin Yang Ranch Software
 
-A brief overview is [here.](../yyr-Software/index.md) All the software we are developing is open source and described in this project on Gihub:
+A brief overview is [here.](../yyr-Software/index.md) All the software we are developing is open source and described in this project on GitHub:
 [Yin Yang Ranch project overview.](https://github.com/jeffbass/yin-yang-ranch)
-
-![Design Drawing](../images/CVpipeline.png)
 
 There are also some pages there that describe our use of Raspberry Pi computers,
 cameras, housings and the electronics we have built to support them.
