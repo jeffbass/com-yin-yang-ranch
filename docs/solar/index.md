@@ -1,8 +1,9 @@
 # Solar Power runs Yin Yang Ranch
 
-## Yin Yang Ranch is in Southern California and gets lots of sunny days. Our house
-is a long ranch house with lots of roof facing East and South. We put on 20kW of
-solar panels about 20 years ago. We produce 2-3 times as much electricity as we 
+## Yin Yang Ranch is in Southern California
+We get lots of sunny days. About 285 sunny days per year. Our house
+is a long ranch house with lots of roof facing East and South. We put 20kW of
+solar panels on our roof about 20 years ago. We produce 2-3 times as much electricity as we 
 use. 
 
 ![Solar panels](../images/solar-panels.jpeg)
