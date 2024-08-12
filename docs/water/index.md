@@ -11,7 +11,7 @@ from Northern California.
 
 Here is a cartoon map of California showing the 440 mile journey our water 
 takes to get from it's source in the High Sierra Mountains to us. (this map is
-from the Las Virgenes Water District
+from the Las Virgenes Municipal Water District
 [webpage](https://www.lvmwd.com/community-resources/the-journey-your-water-takes))
 
 ![Water Jounney](../images/water-journey-map.png)

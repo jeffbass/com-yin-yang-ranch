@@ -24,7 +24,7 @@ every day.
 
 We have a wide variety of birds, including red tail hawks, ravens, crows, quail
 and hummingbirds. We have honeybees as well as many species of native bees that
-nest in the ground or in holes in trees. We are a waystation for Monarch Butterflies 
+nest in the ground or in holes in trees. We are a way station for Monarch Butterflies 
 and plant native milkweed to feed their caterpillars.
 
 ![Barn Owl](../images/barn-owl-day.jpeg)
@@ -33,7 +33,7 @@ and plant native milkweed to feed their caterpillars.
 
 We have many cameras around the farm to watch the wildlife and learn about what 
 lives here and passes through. We use a mix of commercial cameras (Google Nest 
-Cameras with integrated infrared lights) and homebuilt cameras (Raspberry Pi
+Cameras with integrated infrared lights) and home-built cameras (Raspberry Pi
 computers with various cameras attached). We are developing software to watch
 the cameras and identify species (coyote or bobcat?) as well as specific
 individual animals (for example, coyote 2024-C3, seen 3 times in the last 3 days). 

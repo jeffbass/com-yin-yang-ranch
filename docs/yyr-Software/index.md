@@ -32,12 +32,12 @@ packages, including `imageZMQ`, `imagenode` and `imagehub`. There is a working
 prototype of the `librarian` package in the [overview repository.](https://github.com/jeffbass/yin-yang-ranch) 
 
 The design of the software system is what is called a Distributed Computer Vision
-Pipline. The pipline starts with 8-12 Rasperry Pi computer servers with attached 
+Pipeline. The pipeline starts with 8-12 Raspberry Pi computer servers with attached 
 cameras at various places around the farm: watching the driveway, on the back of 
 the barn aimed at the creek, aimed at the grape arbor, watching the water meter
-etc. These Rasperry Pi `imagenodes` capture images and select which images
+etc. These Raspberry Pi `imagenodes` capture images and select which images
 meet "send them" criteria, which varies by the location and job of the specific 
-Raspberry Pi comtputer. These images are transmitted via our `imageZMQ` program
+Raspberry Pi computer. These images are transmitted via our `imageZMQ` program
 to the `imagehub` server in the house. Finally, a `librarian` program sorts
 through the images and labels them and answers questions about them. Here is 
 a text message dialog with the `librarian` software bot (named "Susan"): 
@@ -74,7 +74,7 @@ and get an answer in real time (see the text messages photo above):
 We use cameras to track our urban wildlife. We use a variety cameras. Some are
 commercial cameras like Google Nest Cameras. Others are camera sensors we 
 connect to small Raspberry Pi computers. We use a variety of enclosures for
-our handbuilt cameras including some $5 Fake Security Cameras; we take them
+our hand-built cameras including some $5 Fake Security Cameras; we take them
 apart and put a Raspberry Pi computer with a PiCamera module into it.
 
 ### Driveway Camera
@@ -122,4 +122,4 @@ And here is an image this setup captured of a coyote behind the barn:
 We have about a dozen cameras distributed around Yin Yang Ranch. We are writing
 software to manage the stream of images and perform image analysis to identify 
 coyotes vs. bobcats. And we are working on computer vision software to
-distinguish invidivual animals based on their markings and their gait as they walk.  
+distinguish individual animals based on their markings and their gait as they walk.  
