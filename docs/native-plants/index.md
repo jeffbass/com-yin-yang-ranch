@@ -53,5 +53,5 @@ to share with us. We will update this page with some of what we learn.
 ## Videos and Photos
 We have some photos and videos that tell a bit of the story of Yin Yang Ranch:
 
-- [Photos taken at Yin Yang Ranch](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters) (link goes to Yin Yang Ranch gallery on 500px.com)
+- [Photos taken at Yin Yang Ranch](https://500px.com/p/jh5fhk5zvk/galleries/yin-yang-ranch-plants-and-critters) (link goes to Yin Yang Ranch gallery on 500px.com)
 - [Yin Yang Ranch YouTube Channel](https://youtube.com/@yinyangranch-h1p?si=PQykr61daCJ45kae) (link goes to YouTube) 

@@ -67,7 +67,7 @@ cameras, housings and the electronics we have built to support them.
 
 ### Photos of Yin Yang Ranch
 
-[Photo Gallery of Plants & Critters](https://500px.com/manager?view=galleries&user=jh5fhk5zvk&slug=yin-yang-ranch-plants-and-critters) (link goes to Yin Yang Ranch gallery on 500px.com)
+[Photo Gallery of Plants & Critters](https://500px.com/p/jh5fhk5zvk/galleries/yin-yang-ranch-plants-and-critters) (link goes to Yin Yang Ranch gallery on 500px.com)
 
 ### Our Coyote and Critter Videos
 
