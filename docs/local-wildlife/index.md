@@ -44,6 +44,6 @@ More information about the hardware and software we are developing is on our
 
 ## Some Videos and Photos of Yin Yang Ranch
 
-- [Photos at Yin Yang Ranch](https://500px.com/p/jh5fhk5zvk/galleries/yin-yang-ranch-plants-and-critters) (link goes to Yin Yang Ranch gallery on 500px.com)
+- [Photos of Yin Yang Ranch](https://www.flickr.com/people/195006677@N08/) (link goes to Yin Yang Ranch photos on Flickr)
 - [Yin Yang Ranch YouTube Channel](https://youtube.com/@yinyangranch-h1p?si=PQykr61daCJ45kae) (link goes to YouTube) 
 
